@@ -1,0 +1,505 @@
+Ticker,Industry_Sector,Industry_group
+AAPL,Technology,Computers
+MSFT,Technology,Software
+AMZN,Communications,Internet
+NVDA,Technology,Semiconductors
+GOOGL,Communications,Internet
+GOOG,Communications,Internet
+TSLA,"Consumer, Cyclical",Auto Manufacturers
+META,Communications,Internet
+BRK.B,Financial,Insurance
+XOM,Energy,Oil&Gas
+UNH,"Consumer, Non-cyclical",Healthcare-Services
+LLY,"Consumer, Non-cyclical",Pharmaceuticals
+JPM,Financial,Banks
+V,Financial,Diversified Finan Serv
+JNJ,"Consumer, Non-cyclical",Pharmaceuticals
+AVGO,Technology,Semiconductors
+PG,"Consumer, Non-cyclical",Cosmetics/Personal Care
+MA,Financial,Diversified Finan Serv
+HD,"Consumer, Cyclical",Retail
+CVX,Energy,Oil&Gas
+MRK,"Consumer, Non-cyclical",Pharmaceuticals
+ADBE,Technology,Software
+ABBV,"Consumer, Non-cyclical",Pharmaceuticals
+COST,"Consumer, Cyclical",Retail
+PEP,"Consumer, Non-cyclical",Beverages
+CSCO,Communications,Telecommunications
+KO,"Consumer, Non-cyclical",Beverages
+WMT,"Consumer, Cyclical",Retail
+CRM,Technology,Software
+TMO,"Consumer, Non-cyclical",Healthcare-Products
+ACN,Technology,Computers
+MCD,"Consumer, Cyclical",Retail
+NFLX,Communications,Internet
+BAC,Financial,Banks
+PFE,"Consumer, Non-cyclical",Pharmaceuticals
+ORCL,Technology,Software
+LIN,Basic Materials,Chemicals
+CMCSA,Communications,Media
+ABT,"Consumer, Non-cyclical",Healthcare-Products
+AMD,Technology,Semiconductors
+DHR,"Consumer, Non-cyclical",Healthcare-Products
+INTU,Technology,Software
+INTC,Technology,Semiconductors
+WFC,Financial,Banks
+TXN,Technology,Semiconductors
+COP,Energy,Oil&Gas
+DIS,Communications,Media
+CAT,Industrial,Machinery-Constr&Mining
+PM,"Consumer, Non-cyclical",Agriculture
+VZ,Communications,Telecommunications
+LOW,"Consumer, Cyclical",Retail
+IBM,Technology,Computers
+NEE,Utilities,Electric
+AMGN,"Consumer, Non-cyclical",Biotechnology
+UNP,Industrial,Transportation
+SPGI,"Consumer, Non-cyclical",Commercial Services
+AMAT,Technology,Semiconductors
+QCOM,Technology,Semiconductors
+BMY,"Consumer, Non-cyclical",Pharmaceuticals
+NKE,"Consumer, Cyclical",Apparel
+BA,Industrial,Aerospace/Defense
+HON,Industrial,Electronics
+GE,Industrial,Miscellaneous Manufactur
+RTX,Industrial,Aerospace/Defense
+NOW,Technology,Software
+UPS,Industrial,Transportation
+BKNG,Communications,Internet
+DE,Industrial,Machinery-Diversified
+PLD,Financial,REITS
+SBUX,"Consumer, Cyclical",Retail
+MS,Financial,Banks
+ISRG,"Consumer, Non-cyclical",Healthcare-Products
+MDT,"Consumer, Non-cyclical",Healthcare-Products
+GS,Financial,Banks
+ELV,"Consumer, Non-cyclical",Healthcare-Services
+TJX,"Consumer, Cyclical",Retail
+T,Communications,Telecommunications
+ADP,"Consumer, Non-cyclical",Commercial Services
+BLK,Financial,Diversified Finan Serv
+SYK,"Consumer, Non-cyclical",Healthcare-Products
+MMC,Financial,Insurance
+LMT,Industrial,Aerospace/Defense
+MDLZ,"Consumer, Non-cyclical",Food
+AXP,Financial,Diversified Finan Serv
+LRCX,Technology,Semiconductors
+GILD,"Consumer, Non-cyclical",Biotechnology
+ADI,Technology,Semiconductors
+ETN,Industrial,Miscellaneous Manufactur
+VRTX,"Consumer, Non-cyclical",Biotechnology
+REGN,"Consumer, Non-cyclical",Biotechnology
+SCHW,Financial,Diversified Finan Serv
+SLB,Energy,Oil&Gas Services
+ZTS,"Consumer, Non-cyclical",Pharmaceuticals
+CVS,"Consumer, Non-cyclical",Pharmaceuticals
+CB,Financial,Insurance
+AMT,Financial,REITS
+CI,"Consumer, Non-cyclical",Pharmaceuticals
+C,Financial,Banks
+PGR,Financial,Insurance
+EOG,Energy,Oil&Gas
+MO,"Consumer, Non-cyclical",Agriculture
+BSX,"Consumer, Non-cyclical",Healthcare-Products
+TMUS,Communications,Telecommunications
+MU,Technology,Semiconductors
+FI,Technology,Software
+BDX,"Consumer, Non-cyclical",Pharmaceuticals
+PANW,Communications,Internet
+CME,Financial,Diversified Finan Serv
+SO,Utilities,Electric
+EQIX,Financial,REITS
+SNPS,Technology,Software
+KLAC,Technology,Semiconductors
+PYPL,"Consumer, Non-cyclical",Commercial Services
+AON,Financial,Insurance
+ITW,Industrial,Miscellaneous Manufactur
+CDNS,Technology,Software
+DUK,Utilities,Electric
+ATVI,Technology,Software
+ICE,Financial,Diversified Finan Serv
+APD,Basic Materials,Chemicals
+SHW,Basic Materials,Chemicals
+MPC,Energy,Oil&Gas
+CSX,Industrial,Transportation
+NOC,Industrial,Aerospace/Defense
+CL,"Consumer, Non-cyclical",Cosmetics/Personal Care
+FDX,Industrial,Transportation
+MMM,Industrial,Miscellaneous Manufactur
+HUM,"Consumer, Non-cyclical",Healthcare-Services
+FCX,Basic Materials,Mining
+WM,Industrial,Environmental Control
+ORLY,"Consumer, Cyclical",Retail
+TGT,"Consumer, Cyclical",Retail
+HCA,"Consumer, Non-cyclical",Healthcare-Services
+PXD,Energy,Oil&Gas
+EMR,Industrial,Electrical Compo&Equip
+MCK,"Consumer, Non-cyclical",Pharmaceuticals
+CMG,"Consumer, Cyclical",Retail
+NXPI,Technology,Semiconductors
+PSX,Energy,Oil&Gas
+MCO,"Consumer, Non-cyclical",Commercial Services
+PH,Industrial,Miscellaneous Manufactur
+ROP,Technology,Software
+APH,Industrial,Electronics
+MAR,"Consumer, Cyclical",Lodging
+USB,Financial,Banks
+GD,Industrial,Aerospace/Defense
+ANET,Communications,Telecommunications
+AJG,Financial,Insurance
+VLO,Energy,Oil&Gas
+ADSK,Technology,Software
+F,"Consumer, Cyclical",Auto Manufacturers
+AZO,"Consumer, Cyclical",Retail
+PNC,Financial,Banks
+CARR,Industrial,Building Materials
+OXY,Energy,Oil&Gas
+MSI,Communications,Telecommunications
+TT,Industrial,Building Materials
+EW,"Consumer, Non-cyclical",Healthcare-Products
+TDG,Industrial,Aerospace/Defense
+GM,"Consumer, Cyclical",Auto Manufacturers
+NSC,Industrial,Transportation
+ECL,Basic Materials,Chemicals
+MCHP,Technology,Semiconductors
+HES,Energy,Oil&Gas
+SRE,Utilities,Electric
+CHTR,Communications,Media
+MSCI,Technology,Software
+PCAR,"Consumer, Cyclical",Auto Manufacturers
+AIG,Financial,Insurance
+ON,Technology,Semiconductors
+CTAS,"Consumer, Non-cyclical",Commercial Services
+CCI,Financial,REITS
+MNST,"Consumer, Non-cyclical",Beverages
+NUE,Basic Materials,Iron/Steel
+ADM,"Consumer, Non-cyclical",Agriculture
+PSA,Financial,REITS
+KMB,"Consumer, Non-cyclical",Household Products/Wares
+STZ,"Consumer, Non-cyclical",Beverages
+TEL,Industrial,Electronics
+ROST,"Consumer, Cyclical",Retail
+DXCM,"Consumer, Non-cyclical",Pharmaceuticals
+WMB,Energy,Pipelines
+AFL,Financial,Insurance
+WELL,Financial,REITS
+MET,Financial,Insurance
+IQV,"Consumer, Non-cyclical",Healthcare-Services
+IDXX,"Consumer, Non-cyclical",Healthcare-Products
+FTNT,Technology,Computers
+HLT,"Consumer, Cyclical",Lodging
+EXC,Utilities,Electric
+JCI,Industrial,Building Materials
+TFC,Financial,Banks
+AEP,Utilities,Electric
+CPRT,"Consumer, Cyclical",Distribution/Wholesale
+GIS,"Consumer, Non-cyclical",Food
+COF,Financial,Diversified Finan Serv
+DOW,Basic Materials,Chemicals
+PAYX,Technology,Software
+KVUE,"Consumer, Non-cyclical",Cosmetics/Personal Care
+ODFL,Industrial,Transportation
+D,Utilities,Electric
+BIIB,"Consumer, Non-cyclical",Biotechnology
+DLR,Financial,REITS
+SPG,Financial,REITS
+BKR,Energy,Oil&Gas Services
+O,Financial,REITS
+HAL,Energy,Oil&Gas Services
+TRV,Financial,Insurance
+CTSH,Technology,Computers
+EL,"Consumer, Non-cyclical",Cosmetics/Personal Care
+DHI,"Consumer, Cyclical",Home Builders
+AME,Industrial,Electrical Compo&Equip
+CTVA,"Consumer, Non-cyclical",Biotechnology
+AMP,Financial,Diversified Finan Serv
+MRNA,"Consumer, Non-cyclical",Biotechnology
+YUM,"Consumer, Cyclical",Retail
+ROK,Industrial,Machinery-Diversified
+VRSK,"Consumer, Non-cyclical",Commercial Services
+OTIS,Industrial,Machinery-Diversified
+CNC,"Consumer, Non-cyclical",Healthcare-Services
+A,Industrial,Electronics
+CEG,Utilities,Electric
+DD,Basic Materials,Chemicals
+SYY,"Consumer, Non-cyclical",Food
+PRU,Financial,Insurance
+DVN,Energy,Oil&Gas
+CSGP,"Consumer, Non-cyclical",Commercial Services
+GPN,"Consumer, Non-cyclical",Commercial Services
+CMI,"Consumer, Cyclical",Auto Manufacturers
+URI,"Consumer, Non-cyclical",Commercial Services
+KMI,Energy,Pipelines
+FIS,Technology,Software
+LHX,Industrial,Aerospace/Defense
+BK,Financial,Banks
+PPG,Basic Materials,Chemicals
+FAST,"Consumer, Cyclical",Distribution/Wholesale
+EA,Technology,Software
+GWW,"Consumer, Cyclical",Distribution/Wholesale
+VICI,Financial,REITS
+HSY,"Consumer, Non-cyclical",Food
+XEL,Utilities,Electric
+NEM,Basic Materials,Mining
+ED,Utilities,Electric
+WST,"Consumer, Non-cyclical",Healthcare-Products
+PWR,"Consumer, Non-cyclical",Commercial Services
+LEN,"Consumer, Cyclical",Home Builders
+RSG,Industrial,Environmental Control
+KR,"Consumer, Non-cyclical",Food
+PEG,Utilities,Electric
+CDW,Communications,Internet
+FANG,Energy,Oil&Gas
+ALL,Financial,Insurance
+VMC,Industrial,Building Materials
+OKE,Energy,Pipelines
+IR,Industrial,Machinery-Diversified
+COR,"Consumer, Non-cyclical",Pharmaceuticals
+ACGL,Financial,Insurance
+KDP,"Consumer, Non-cyclical",Beverages
+ANSS,Technology,Software
+DG,"Consumer, Cyclical",Retail
+APTV,"Consumer, Cyclical",Auto Parts&Equipment
+IT,"Consumer, Non-cyclical",Commercial Services
+FTV,Industrial,Electronics
+MLM,Industrial,Building Materials
+CBRE,Financial,Real Estate
+EXR,Financial,REITS
+DAL,"Consumer, Cyclical",Airlines
+MTD,Industrial,Electronics
+PCG,Utilities,Electric
+ALGN,"Consumer, Non-cyclical",Healthcare-Products
+GEHC,"Consumer, Non-cyclical",Healthcare-Products
+AWK,Utilities,Water
+HPQ,Technology,Computers
+WEC,Utilities,Electric
+EIX,Utilities,Electric
+KHC,"Consumer, Non-cyclical",Food
+ZBH,"Consumer, Non-cyclical",Healthcare-Products
+WBD,Communications,Media
+LYB,Basic Materials,Chemicals
+ILMN,"Consumer, Non-cyclical",Biotechnology
+AVB,Financial,REITS
+TROW,Financial,Diversified Finan Serv
+EFX,"Consumer, Non-cyclical",Commercial Services
+DLTR,"Consumer, Cyclical",Retail
+GLW,Communications,Telecommunications
+KEYS,Industrial,Electronics
+WY,Financial,REITS
+EBAY,Communications,Internet
+TSCO,"Consumer, Cyclical",Retail
+SBAC,Financial,REITS
+MPWR,Technology,Semiconductors
+STT,Financial,Banks
+XYL,Industrial,Machinery-Diversified
+DFS,Financial,Diversified Finan Serv
+CHD,"Consumer, Non-cyclical",Household Products/Wares
+HPE,Technology,Computers
+FICO,Technology,Software
+CAH,"Consumer, Non-cyclical",Pharmaceuticals
+RMD,"Consumer, Non-cyclical",Healthcare-Products
+TTWO,Technology,Software
+HIG,Financial,Insurance
+ALB,Basic Materials,Chemicals
+STE,"Consumer, Non-cyclical",Healthcare-Products
+WTW,Financial,Insurance
+BR,Technology,Software
+EQR,Financial,REITS
+RCL,"Consumer, Cyclical",Leisure Time
+GPC,"Consumer, Cyclical",Retail
+CTRA,Energy,Oil&Gas
+ES,Utilities,Electric
+DTE,Utilities,Electric
+ULTA,"Consumer, Cyclical",Retail
+FLT,"Consumer, Non-cyclical",Commercial Services
+RJF,Financial,Diversified Finan Serv
+MTB,Financial,Banks
+DOV,Industrial,Machinery-Diversified
+AEE,Utilities,Electric
+MKC,"Consumer, Non-cyclical",Food
+BAX,"Consumer, Non-cyclical",Healthcare-Products
+WAB,Industrial,Machinery-Diversified
+ETR,Utilities,Electric
+INVH,Financial,REITS
+TDY,Industrial,Miscellaneous Manufactur
+TRGP,Energy,Pipelines
+NVR,"Consumer, Cyclical",Home Builders
+CLX,"Consumer, Non-cyclical",Household Products/Wares
+FE,Utilities,Electric
+VRSN,Communications,Internet
+IRM,Financial,REITS
+HOLX,"Consumer, Non-cyclical",Healthcare-Products
+ARE,Financial,REITS
+FITB,Financial,Banks
+DRI,"Consumer, Cyclical",Retail
+LH,"Consumer, Non-cyclical",Healthcare-Services
+IFF,Basic Materials,Chemicals
+FSLR,Energy,Energy-Alternate Sources
+MOH,"Consumer, Non-cyclical",Healthcare-Services
+PHM,"Consumer, Cyclical",Home Builders
+HWM,Industrial,Aerospace/Defense
+LUV,"Consumer, Cyclical",Airlines
+EXPD,Industrial,Transportation
+PPL,Utilities,Electric
+COO,"Consumer, Non-cyclical",Healthcare-Products
+NDAQ,Financial,Diversified Finan Serv
+NTAP,Technology,Computers
+PFG,Financial,Insurance
+CNP,Utilities,Electric
+LVS,"Consumer, Cyclical",Lodging
+BRO,Financial,Insurance
+VTR,Financial,REITS
+RF,Financial,Banks
+J,Industrial,Engineering&Construction
+SWKS,Technology,Semiconductors
+MRO,Energy,Oil&Gas
+ENPH,Energy,Energy-Alternate Sources
+STLD,Basic Materials,Iron/Steel
+IEX,Industrial,Machinery-Diversified
+BG,"Consumer, Non-cyclical",Agriculture
+CINF,Financial,Insurance
+BALL,Industrial,Packaging&Containers
+TER,Technology,Semiconductors
+FDS,Communications,Media
+OMC,Communications,Advertising
+MAA,Financial,REITS
+WAT,"Consumer, Non-cyclical",Healthcare-Products
+TYL,Technology,Software
+WBA,"Consumer, Cyclical",Retail
+ATO,Utilities,Gas
+CMS,Utilities,Electric
+GRMN,Industrial,Electronics
+CF,Basic Materials,Chemicals
+AKAM,Technology,Software
+UAL,"Consumer, Cyclical",Airlines
+CBOE,Financial,Diversified Finan Serv
+NTRS,Financial,Banks
+EG,Financial,Insurance
+HBAN,Financial,Banks
+PTC,Technology,Software
+EXPE,Communications,Internet
+CCL,"Consumer, Cyclical",Leisure Time
+JBHT,Industrial,Transportation
+EQT,Energy,Oil&Gas
+TXT,Industrial,Miscellaneous Manufactur
+K,"Consumer, Non-cyclical",Food
+ESS,Financial,REITS
+SJM,"Consumer, Non-cyclical",Food
+AXON,Industrial,Miscellaneous Manufactur
+AVY,"Consumer, Non-cyclical",Household Products/Wares
+EPAM,Technology,Computers
+TSN,"Consumer, Non-cyclical",Food
+BBY,"Consumer, Cyclical",Retail
+WDC,Technology,Computers
+SWK,Industrial,Hand/Machine Tools
+PAYC,Technology,Software
+DGX,"Consumer, Non-cyclical",Healthcare-Services
+RVTY,"Consumer, Non-cyclical",Healthcare-Products
+ZBRA,Technology,Office/Business Equip
+SNA,Industrial,Hand/Machine Tools
+AMCR,Industrial,Packaging&Containers
+SYF,Financial,Diversified Finan Serv
+STX,Technology,Computers
+LW,"Consumer, Non-cyclical",Food
+APA,Energy,Oil&Gas
+CAG,"Consumer, Non-cyclical",Food
+DPZ,"Consumer, Cyclical",Retail
+POOL,"Consumer, Cyclical",Distribution/Wholesale
+CFG,Financial,Banks
+PODD,"Consumer, Non-cyclical",Healthcare-Products
+TRMB,Industrial,Electronics
+MGM,"Consumer, Cyclical",Lodging
+LDOS,Technology,Computers
+KMX,"Consumer, Cyclical",Retail
+PKG,Industrial,Packaging&Containers
+MOS,Basic Materials,Chemicals
+MAS,Industrial,Building Materials
+LKQ,"Consumer, Cyclical",Distribution/Wholesale
+NDSN,Industrial,Machinery-Diversified
+MTCH,Communications,Internet
+CE,Basic Materials,Chemicals
+IPG,Communications,Advertising
+WRB,Financial,Insurance
+LNT,Utilities,Electric
+VTRS,"Consumer, Non-cyclical",Pharmaceuticals
+EVRG,Utilities,Electric
+L,Financial,Insurance
+UDR,Financial,REITS
+TECH,"Consumer, Non-cyclical",Healthcare-Products
+IP,Basic Materials,Forest Products&Paper
+INCY,"Consumer, Non-cyclical",Biotechnology
+AES,Utilities,Electric
+GEN,Communications,Internet
+TAP,"Consumer, Non-cyclical",Beverages
+CPT,Financial,REITS
+BF.B,Basic Materials,Chemicals
+HST,Financial,REITS
+LYV,"Consumer, Cyclical",Entertainment
+PNR,Industrial,Environmental Control
+CZR,"Consumer, Cyclical",Entertainment
+KIM,Financial,REITS
+CDAY,Technology,Software
+PEAK,Financial,REITS
+JKHY,Technology,Software
+HRL,"Consumer, Non-cyclical",Food
+QRVO,Technology,Semiconductors
+NI,Utilities,Gas
+CRL,"Consumer, Non-cyclical",Healthcare-Services
+KEY,Financial,Banks
+FMC,Basic Materials,Chemicals
+CHRW,Industrial,Transportation
+HSIC,"Consumer, Non-cyclical",Pharmaceuticals
+WYNN,"Consumer, Cyclical",Lodging
+EMN,Basic Materials,Chemicals
+TFX,"Consumer, Non-cyclical",Healthcare-Products
+REG,Financial,REITS
+GL,Financial,Insurance
+FFIV,Communications,Internet
+BWA,"Consumer, Cyclical",Auto Parts&Equipment
+ALLE,Industrial,Electronics
+JNPR,Communications,Telecommunications
+AAL,"Consumer, Cyclical",Airlines
+BXP,Financial,REITS
+HAS,"Consumer, Cyclical",Toys/Games/Hobbies
+AOS,Industrial,Miscellaneous Manufactur
+ETSY,Communications,Internet
+CTLT,"Consumer, Non-cyclical",Healthcare-Services
+NRG,Utilities,Electric
+ROL,"Consumer, Non-cyclical",Commercial Services
+SEDG,Energy,Energy-Alternate Sources
+MKTX,"Consumer, Non-cyclical",Commercial Services
+BBWI,"Consumer, Cyclical",Retail
+FOXA,Communications,Media
+PNW,Utilities,Electric
+CPB,"Consumer, Non-cyclical",Food
+HII,Industrial,Shipbuilding
+NWSA,Communications,Media
+UHS,"Consumer, Non-cyclical",Healthcare-Services
+WRK,Industrial,Packaging&Containers
+RHI,"Consumer, Non-cyclical",Commercial Services
+XRAY,"Consumer, Non-cyclical",Healthcare-Products
+BIO,"Consumer, Non-cyclical",Biotechnology
+TPR,"Consumer, Cyclical",Apparel
+WHR,"Consumer, Cyclical",Home Furnishings
+BEN,Financial,Diversified Finan Serv
+GNRC,Industrial,Electrical Compo&Equip
+AIZ,Financial,Insurance
+FRT,Financial,REITS
+IVZ,Financial,Diversified Finan Serv
+NCLH,"Consumer, Cyclical",Leisure Time
+PARA,Communications,Media
+VFC,"Consumer, Cyclical",Apparel
+CMA,Financial,Banks
+DVA,"Consumer, Non-cyclical",Healthcare-Services
+ZION,Financial,Banks
+SEE,Industrial,Packaging&Containers
+ALK,"Consumer, Cyclical",Airlines
+OGN,"Consumer, Non-cyclical",Pharmaceuticals
+MHK,Industrial,Building Materials
+RL,"Consumer, Cyclical",Apparel
+DXC,Technology,Computers
+FOX,Communications,Media
+LNC,Financial,Insurance
+NWL,"Consumer, Cyclical",Housewares
+NWS,Communications,Media
+FTRE,"Consumer, Non-cyclical",Healthcare-Services
